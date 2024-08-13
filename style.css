@@ -2,6 +2,7 @@
     background-image: -o-linear-gradient(red,brown);
     color: black;
     display: flex;
+    padding: 24px;
     
 }
 
@@ -24,5 +25,5 @@ section2 {
 }
 
 .cabecalho-imagem{
-    width: 10px;
+    width: 20%;
 }
